@@ -17,12 +17,12 @@
   - [x] Seed Neo4j Knowledge Graph with Faker test data
   - [ ] Setup CI Pipeline & `pytest`
 
-- [x] **Phase 3: Agent Implementation**
+- [ ] **Phase 3: Agent Implementation**
   - [x] Implement `base_agent.py`
   - [x] Implement Account Agent
-  - [x] Implement Loan Agent
-  - [x] Implement Compliance Agent
-  - [x] Implement Real Router Logic (Deterministic)
+  - [/] Implement Loan Agent
+  - [/] Implement Compliance Agent
+  - [ ] Implement Real Router Logic (Deterministic)
 
 - [ ] **Phase 4: Hard Problems**
   - [ ] Implement Fraud Agent and Human-in-the-Loop (HITL) Interrupt
@@ -34,3 +34,8 @@
   - [ ] Latency Measurement & Audit Trail Verification
   - [ ] Write Documentation and API schemas
   - [ ] Prepare Demo Recording (15 min) and Deliverables
+
+- [ ] **Phase 6: Bonus Challenges**
+  - [ ] Bonus A: Real-time Fraud Network Visualization (NetworkX + Matplotlib)
+  - [ ] Bonus B: Adaptive Routing with Confidence Scores
+  - [ ] Bonus C: Streaming Response with Partial Results

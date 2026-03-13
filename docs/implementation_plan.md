@@ -74,6 +74,12 @@ graph TD
     class State,KG state
 ```
 
+### 4. Phase 6: Bonus Challenges
+These items are targeted for final submission to maximize evaluation marks:
+- **Bonus A: Fraud Network Visualization**: Implement a `.visualize_fraud_ring()` method in `FraudAgent` using `matplotlib` to render the `LINKED_TO` sub-graph from Neo4j.
+- **Bonus B: Adaptive Routing**: Refactor `router_node` to use an LLM-based classifier that returns confidence scores, allowing for multi-agent fan-out based on probability thresholds.
+- **Bonus C: Streaming Responses**: Implement `astream_events` in `main.py` to provide real-time updates as nodes complete execution.
+
 ## Verification Plan
 
 ### Automated Tests
