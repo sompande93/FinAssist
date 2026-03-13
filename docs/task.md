@@ -17,12 +17,12 @@
   - [x] Seed Neo4j Knowledge Graph with Faker test data
   - [ ] Setup CI Pipeline & `pytest`
 
-- [ ] **Phase 3: Agent Implementation**
+- [x] **Phase 3: Agent Implementation**
   - [x] Implement `base_agent.py`
   - [x] Implement Account Agent
-  - [/] Implement Loan Agent
-  - [/] Implement Compliance Agent
-  - [ ] Implement Real Router Logic (Deterministic)
+  - [x] Implement Loan Agent
+  - [x] Implement Compliance Agent
+  - [x] Implement Real Router Logic (Deterministic)
 
 - [ ] **Phase 4: Hard Problems**
   - [ ] Implement Fraud Agent and Human-in-the-Loop (HITL) Interrupt
