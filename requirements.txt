@@ -1,0 +1,14 @@
+langchain>=0.2.0
+langgraph>=0.1.0
+langchain-openai
+mcp
+fastmcp
+networkx
+faker
+pytest
+pytest-asyncio
+httpx
+pydantic
+python-dotenv
+langgraph-checkpoint-sqlite
+neo4j
